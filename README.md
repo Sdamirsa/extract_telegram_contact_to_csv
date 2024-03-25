@@ -20,6 +20,7 @@ For example mine is: "C:\Users\LEGION\Downloads\Telegram Desktop\DataExport_2024
 download the file you can see at the top of this page named extract_telegram_contact_to_csv.py
 Find the downloaded file and get the path to this file (you can press ctrl+shift+C)
 For example, mine is: C:\Users\LEGION\Desktop\extract_telegram_contact_to_csv.py
+If you don't know how to install a single file [follow this](https://zapier.com/blog/how-to-download-from-github/#single)
 
 ### Step 5: run the code [3 min]
 - Open 'Command prompt' by searching it on the Windows search bar
