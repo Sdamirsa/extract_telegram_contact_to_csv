@@ -32,3 +32,6 @@ If you don't know how to install a single file [follow this](https://zapier.com/
 -   pip install BeautifulSoup
 - when you run the code it will ask you for two things: The path to HTML file, and your desired path to save the CSV
 
+### [Optional] Prepare it for Google
+Follow this instruction to rename the column headers, so google can read this file:
+https://www.wikihow.com/Add-Contacts-to-Gmail-Using-a-CSV-File
